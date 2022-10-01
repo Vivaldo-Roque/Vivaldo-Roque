@@ -1,33 +1,65 @@
-<h1 align="center">Hi 👋, I'm Vivaldo Roque</h1>
-<h3 align="center">Just a hobby programmer, and freelancer.</h3>
+<h1 align="center">Hi 👋, I'm Vivaldo Roque <img src="https://komarev.com/ghpvc/?username=vivaldo-roque&label=Profile%20views&color=0e75b6&style=flat" alt="vivaldo-roque" /></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivaldo-roque&label=Profile%20views&color=0e75b6&style=flat" alt="vivaldo-roque" /> </p>
+* 📚 Student.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vivaldo-roque" alt="vivaldo-roque" /></a> </p>
+* 💻 Hobby programmer.
 
-- 🌱 I’m currently learning **artificial intelligence, game development and application development.**
+* 👷🏾‍♂️ Maybe I can do some freelance work for you.
 
-- 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/dev?id=8028061365935195541](https://play.google.com/store/apps/dev?id=8028061365935195541)
+* ⚡ Fun fact **I like to try to recreate challenges already done.**
 
-- 💬 Ask me about **C, C++, Python and C#**
+* 🌱 I’m currently learning **artificial intelligence, game development and application development.**
 
-- 📫 How to reach me **2001vivaldo@gmail.com**
+<h2 align="center">Contact me:</h2>
 
-- ⚡ Fun fact **I like to try to recreate challenges already done.**
+<div align="center"> 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vivaldo-roque-953837179" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vivaldo-roque-953837179" height="30" width="40" /></a>
-<a href="https://fb.com/vivaldo.cristovao" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="vivaldo.cristovao" height="30" width="40" /></a>
-<a href="https://instagram.com/vivaldo_roque" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="vivaldo_roque" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/faztudotutoriais" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="faztudotutoriais" height="30" width="40" /></a>
-</p>
+<a href = "mailto:2001vivaldo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/vivaldo-roque-953837179/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://https://m.me/vivaldo.cristovao" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/vivaldo_roque" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<h2 align="center">Technologies I've had contact with:</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vivaldo-roque&show_icons=true&locale=en&layout=compact" alt="vivaldo-roque" /></p>
+<h3 align="center">Web:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivaldo-roque&show_icons=true&locale=en" alt="vivaldo-roque" /></p>
+<div align="center" style="display: inline_block; margin: 0;"><br>
+  <img align="center" alt="HTML" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="CSS" height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="JS" height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivaldo-roque&" alt="vivaldo-roque" /></p>
+<h3 align="center">Cross-platform frameworks:</h3>
+
+<div align="center"><br>
+  <img align="center" alt="Flutter" height="30" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+</div>
+
+<h3 align="center">Languages:</h3>
+
+<div align="center" style="display: inline_block; margin: 0;"><br>
+  <img align="center" alt="C" height="30" src="https://img.shields.io/badge/C-239120?style=for-the-badge&logo=c&logoColor=white"> 
+  <img align="center" alt="C++" height="30" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img align="center" alt="Python" height="30" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="CSharp" height="30" src="https://img.shields.io/badge/C%23-8C1CFC?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img align="center" alt="Java" height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img align="center" alt="Dart" height="30" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  <img align="center" alt="MySql" height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
+
+<h3 align="center">Operating systems:</h3>
+
+<div align="center" style="display: inline_block; margin: 0;"><br>
+  <img align="center" alt="Android" height="30" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+  <img align="center" alt="Windows" height="30" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+</div>
+
+<h2 align="center">My journey on github:</h2>
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivaldo-Roque&layout=compact&langs_count=7&theme=react"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vivaldo-Roque&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+</div>
+

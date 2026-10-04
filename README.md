@@ -65,7 +65,7 @@ I'm **Vivaldo Roque**, a software engineer based in **Luanda, Angola**. I hold a
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vivaldo-Roque&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=e94560&line=e94560&point=ffffff" alt="Contribution Graph"/>
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph?username=Vivaldo-Roque&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=e94560&line=e94560&point=ffffff" alt="Contribution Graph"/>
 </div>
 
 <br/>
